@@ -1,6 +1,6 @@
 # chat_gpt_app_mk1
 
-A new Flutter project.
+A Chatbot chat app built using the Flutter framework and OpenAI's GPT-3 language model.
 
 ## Getting Started
 
